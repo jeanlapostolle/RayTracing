@@ -2,10 +2,10 @@ class Materiau():
     def __init__(self, ambiante):
         self.ambiante = ambiante
         self.diffuse = diffuse
-        self.reflexion = reflexion
-        self.speculaire = speculaire
-        self.weights = weights
-        self.opacite = opacite
+        # self.reflexion = reflexion
+        # self.speculaire = speculaire
+        # self.weights = weights
+        # self.opacite = opacite
 
  # diffuse, reflexion, speculaire, weights, opacite
 

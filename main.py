@@ -44,7 +44,7 @@ def update(frame, l):
 
     plt.imsave("res/{}.png".format(l),np.array(image, dtype="uint8").reshape(w, h, 3))
 #
-for frame in np.linspace(0,15, 25):
+for frame in np.linspace(0,15, 3):
     l+=1
     update(frame, l)
 
