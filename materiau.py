@@ -1,7 +1,7 @@
 class Materiau():
     def __init__(self, ambiante):
         self.ambiante = ambiante
-        # self.diffuse = diffuse
+        self.diffuse = diffuse
         # self.reflexion = reflexion
         # self.speculaire = speculaire
         # self.weights = weights
