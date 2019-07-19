@@ -4,7 +4,7 @@ class Materiau():
         self.diffuse = diffuse
         self.reflexion = reflexion
         self.speculaire = speculaire
-        # self.weights = weights
+        self.weights = weights
         # self.opacite = opacite
 
  # diffuse, reflexion, speculaire, weights, opacite
